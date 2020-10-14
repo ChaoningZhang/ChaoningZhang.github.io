@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Batch Normalization | Philipp Benz</title>
-    <link>https://phibenz.github.io/tag/batch-normalization/</link>
-      <atom:link href="https://phibenz.github.io/tag/batch-normalization/index.xml" rel="self" type="application/rss+xml" />
+    <title>Batch Normalization | Chaoning Zhang</title>
+    <link>https://chaoningzhang.github.io/tag/batch-normalization/</link>
+      <atom:link href="https://chaoningzhang.github.io/tag/batch-normalization/index.xml" rel="self" type="application/rss+xml" />
     <description>Batch Normalization</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 &amp;#8226; Philipp Benz</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 &amp;#8226; Chaoning Zhang</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://phibenz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chaoningzhang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Batch Normalization</title>
-      <link>https://phibenz.github.io/tag/batch-normalization/</link>
+      <link>https://chaoningzhang.github.io/tag/batch-normalization/</link>
     </image>
     
     <item>
       <title>Batch Normalization Increases Adversarial Vulnerability: Disentangling Usefulness and Robustness of Model Features</title>
-      <link>https://phibenz.github.io/publication/batch_norm_increases_adversarial_vulnerability/</link>
+      <link>https://chaoningzhang.github.io/publication/batch_norm_increases_adversarial_vulnerability/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://phibenz.github.io/publication/batch_norm_increases_adversarial_vulnerability/</guid>
+      <guid>https://chaoningzhang.github.io/publication/batch_norm_increases_adversarial_vulnerability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revisiting Batch Normalization for Improving Corruption Robustness</title>
-      <link>https://phibenz.github.io/publication/revisiting_batch_normalization/</link>
+      <link>https://chaoningzhang.github.io/publication/revisiting_batch_normalization/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://phibenz.github.io/publication/revisiting_batch_normalization/</guid>
+      <guid>https://chaoningzhang.github.io/publication/revisiting_batch_normalization/</guid>
       <description></description>
     </item>
     

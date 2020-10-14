@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adversarial Machine Learning | Philipp Benz</title>
-    <link>https://phibenz.github.io/tag/adversarial-machine-learning/</link>
-      <atom:link href="https://phibenz.github.io/tag/adversarial-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <title>Adversarial Machine Learning | Chaoning Zhang</title>
+    <link>https://chaoningzhang.github.io/tag/adversarial-machine-learning/</link>
+      <atom:link href="https://chaoningzhang.github.io/tag/adversarial-machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Adversarial Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 &amp;#8226; Philipp Benz</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 &amp;#8226; Chaoning Zhang</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://phibenz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://chaoningzhang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Adversarial Machine Learning</title>
-      <link>https://phibenz.github.io/tag/adversarial-machine-learning/</link>
+      <link>https://chaoningzhang.github.io/tag/adversarial-machine-learning/</link>
     </image>
     
     <item>
       <title>Batch Normalization Increases Adversarial Vulnerability: Disentangling Usefulness and Robustness of Model Features</title>
-      <link>https://phibenz.github.io/publication/batch_norm_increases_adversarial_vulnerability/</link>
+      <link>https://chaoningzhang.github.io/publication/batch_norm_increases_adversarial_vulnerability/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://phibenz.github.io/publication/batch_norm_increases_adversarial_vulnerability/</guid>
+      <guid>https://chaoningzhang.github.io/publication/batch_norm_increases_adversarial_vulnerability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Revisiting Batch Normalization for Improving Corruption Robustness</title>
-      <link>https://phibenz.github.io/publication/revisiting_batch_normalization/</link>
+      <link>https://chaoningzhang.github.io/publication/revisiting_batch_normalization/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://phibenz.github.io/publication/revisiting_batch_normalization/</guid>
+      <guid>https://chaoningzhang.github.io/publication/revisiting_batch_normalization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Double Targeted Universal Adversarial Perturbations</title>
-      <link>https://phibenz.github.io/publication/double_targeted_attack/</link>
+      <link>https://chaoningzhang.github.io/publication/double_targeted_attack/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://phibenz.github.io/publication/double_targeted_attack/</guid>
+      <guid>https://chaoningzhang.github.io/publication/double_targeted_attack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding Adversarial Examples from the Mutual Influence of Images and Perturbations</title>
-      <link>https://phibenz.github.io/publication/understanding_uaps/</link>
+      <link>https://chaoningzhang.github.io/publication/understanding_uaps/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://phibenz.github.io/publication/understanding_uaps/</guid>
+      <guid>https://chaoningzhang.github.io/publication/understanding_uaps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data from Model: Extracting Data from Non-robust and Robust Models</title>
-      <link>https://phibenz.github.io/publication/data_from_model/</link>
+      <link>https://chaoningzhang.github.io/publication/data_from_model/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://phibenz.github.io/publication/data_from_model/</guid>
+      <guid>https://chaoningzhang.github.io/publication/data_from_model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CD-UAP: Class Discriminative Universal Adversarial Perturbation</title>
-      <link>https://phibenz.github.io/publication/cd_uap/</link>
+      <link>https://chaoningzhang.github.io/publication/cd_uap/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://phibenz.github.io/publication/cd_uap/</guid>
+      <guid>https://chaoningzhang.github.io/publication/cd_uap/</guid>
       <description></description>
     </item>
     
