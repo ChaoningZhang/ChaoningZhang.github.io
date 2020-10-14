@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ho-Jin Choi | Philipp Benz</title>
+    <link>https://phibenz.github.io/author/ho-jin-choi/</link>
+      <atom:link href="https://phibenz.github.io/author/ho-jin-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ho-Jin Choi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 &amp;#8226; Philipp Benz</copyright><lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://phibenz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ho-Jin Choi</title>
+      <link>https://phibenz.github.io/author/ho-jin-choi/</link>
+    </image>
+    
+    <item>
+      <title>Sensor-Based Mobile Robot Navigation via Deep Reinforcement Learning</title>
+      <link>https://phibenz.github.io/publication/sensor_based_mobile_robot_navigation/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://phibenz.github.io/publication/sensor_based_mobile_robot_navigation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

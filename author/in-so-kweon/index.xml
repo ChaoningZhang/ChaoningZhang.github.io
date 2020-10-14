@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>In So Kweon | Philipp Benz</title>
+    <link>https://phibenz.github.io/author/in-so-kweon/</link>
+      <atom:link href="https://phibenz.github.io/author/in-so-kweon/index.xml" rel="self" type="application/rss+xml" />
+    <description>In So Kweon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 &amp;#8226; Philipp Benz</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://phibenz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>In So Kweon</title>
+      <link>https://phibenz.github.io/author/in-so-kweon/</link>
+    </image>
+    
+    <item>
+      <title>Batch Normalization Increases Adversarial Vulnerability: Disentangling Usefulness and Robustness of Model Features</title>
+      <link>https://phibenz.github.io/publication/batch_norm_increases_adversarial_vulnerability/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://phibenz.github.io/publication/batch_norm_increases_adversarial_vulnerability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Batch Normalization for Improving Corruption Robustness</title>
+      <link>https://phibenz.github.io/publication/revisiting_batch_normalization/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://phibenz.github.io/publication/revisiting_batch_normalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double Targeted Universal Adversarial Perturbations</title>
+      <link>https://phibenz.github.io/publication/double_targeted_attack/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://phibenz.github.io/publication/double_targeted_attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Adversarial Examples from the Mutual Influence of Images and Perturbations</title>
+      <link>https://phibenz.github.io/publication/understanding_uaps/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://phibenz.github.io/publication/understanding_uaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data from Model: Extracting Data from Non-robust and Robust Models</title>
+      <link>https://phibenz.github.io/publication/data_from_model/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://phibenz.github.io/publication/data_from_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CD-UAP: Class Discriminative Universal Adversarial Perturbation</title>
+      <link>https://phibenz.github.io/publication/cd_uap/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://phibenz.github.io/publication/cd_uap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propose-and-Attend Single Shot Detector</title>
+      <link>https://phibenz.github.io/publication/propose_and_attend_ssd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://phibenz.github.io/publication/propose_and_attend_ssd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Residual Networks with Nonlinear Shortcuts</title>
+      <link>https://phibenz.github.io/publication/revisiting_residual_networks/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://phibenz.github.io/publication/revisiting_residual_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Perception, Planning, and Execution for a Robotic Butler: Wheeled Humanoid M-Hubo</title>
+      <link>https://phibenz.github.io/publication/m_hubo_robotic_butler/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://phibenz.github.io/publication/m_hubo_robotic_butler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Philipp Benz</title>
+    <link>https://phibenz.github.io/tag/deep-learning/</link>
+      <atom:link href="https://phibenz.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 &amp;#8226; Philipp Benz</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://phibenz.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Deep Learning</title>
+      <link>https://phibenz.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Revisiting Residual Networks with Nonlinear Shortcuts</title>
+      <link>https://phibenz.github.io/publication/revisiting_residual_networks/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://phibenz.github.io/publication/revisiting_residual_networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
